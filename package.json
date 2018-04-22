@@ -1,0 +1,17 @@
+{
+  "name": "express_tutorial",
+  "version": "1.0.0",
+  "description": "tutorial app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongodb": "^3.0.7",
+    "mongoose": "*"
+  },
+  "author": "Ed G",
+  "license": "ISC"
+}
