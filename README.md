@@ -10,4 +10,5 @@ Follow the mogoDB documentation to run MongoDB on your OS
 
 Once all your requirements have been installed simply run the app with node
 
-``` node app
+``` 
+node app
